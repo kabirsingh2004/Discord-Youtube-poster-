@@ -1,7 +1,7 @@
 {
-  "name": "commandhandler",
+  "name": "ytposter",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Make Sure You Give Credit.. Thank You**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,13 @@
     "ascii-table": "0.0.9",
     "discord-yt-poster": "^2.0.3",
     "discord.js": "^12.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabirJaipal/Advance-Discord-Youtube-Video-Poster-With-10-Commands-Advance-Help-Command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KabirJaipal/Advance-Discord-Youtube-Video-Poster-With-10-Commands-Advance-Help-Command/issues"
+  },
+  "homepage": "https://github.com/KabirJaipal/Advance-Discord-Youtube-Video-Poster-With-10-Commands-Advance-Help-Command#readme"
 }
