@@ -1,7 +1,7 @@
 {
-    "token": "ODYwMDY5ODkwODgzMTkwODE0.YN14gQ.5UIenh7NSHcSSHGOVIez06TUtAA",
-    "prefix": "!",
-    "ownerID": "821095540569407508",
+    "token": "your_token",
+    "prefix": "your_prefix",
+    "ownerID": "your_discord_id",
     "footertext": "Coded By Tech Boy Gaming",
     "colors": {
         "yes": "BLUE",
