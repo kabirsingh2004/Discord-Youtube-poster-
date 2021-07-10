@@ -14,7 +14,7 @@
 
 Enjoy ;)
 
-[REPLIT](https://replit.com/@KabirJaipal/Advance-Discord-Youtube-Video-Poster-With-10-Commands-Advanc-Yo?v=1)
+[REPLIT](https://replit.com/@KabirJaipal/Advance-Discord-Youtube-Video-Poster-With-10-Commands-Advanc)
 
 *Yes It Works on REPLIT*
 
