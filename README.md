@@ -21,4 +21,6 @@ Enjoy ;)
 **Discord Server:**
 [https://discord.gg/tVWrU5PWZV](https://discord.gg/tVWrU5PWZV)
 
+## Credits
 
+[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/YoutubePoster](https://github.com/Tomato6966/discord-yt-poster)
